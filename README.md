@@ -1,7 +1,7 @@
 ## OPA!! Prazer, Eu sou o Otávio Vinicius
 - 🌱 Atualmente estou aprendendo Análise de dados
 - 👯 Quero chegar na área de Ciência de dados  
-- 📫 Como me contactar: 
+- 📫 Veja Mais: 
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
